@@ -1,0 +1,1 @@
+O projeto é um problema clássico de engenharia de controle que simula a estabilização de um drone em um eixo, aplicando um controlador PID em um sistema fechado
